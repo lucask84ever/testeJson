@@ -1,0 +1,44 @@
+{
+    "version" : 2022.1
+    ,"inss": {
+
+        "percentages": [
+            {
+                "percentage": 7.5,
+                "minimal": 1100.00
+            },
+            {
+                "percentage": 9,
+                "minimal": 1100.00
+            },
+            {
+                "percentage": 12,
+                "minimal": 1100.00
+            },
+            {
+                "percentage": 14,
+                "minimal": 1100.00
+            }
+        ],
+        "TETO": 751.99
+    }
+    ,
+    "ir" : [
+        {
+            "percentage": 7.5,
+            "minimal": 1903.98
+        },
+        {
+            "percentage": 15,
+            "minimal": 2826.66
+        },
+        {
+            "percentage": 22.5,
+            "minimal": 3751.06
+        },
+        {
+            "percentage": 27.5,
+            "minimal": 4664.88
+        }
+    ]
+}
